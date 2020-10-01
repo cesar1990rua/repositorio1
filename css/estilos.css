@@ -24,12 +24,17 @@
 
     
 }
-element.style {
-}
+
 #video-title{
     display: block;
     margin: 10px;
     font-family: cursive;
+    
+}
+.btnsuscribir
+{
+    margin-left: 70%;
+    margin-top: 20px;
     
 }
 
